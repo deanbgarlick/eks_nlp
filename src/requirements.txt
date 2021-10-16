@@ -1,3 +1,4 @@
+awscli
 huggingface_hub
 kaggle
 pandas
